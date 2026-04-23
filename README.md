@@ -25,4 +25,5 @@ npm run dev
 - Mock data used
 
 ## 📸 Screenshots
-(Add screenshots here)
+<img width="1896" height="903" alt="image" src="https://github.com/user-attachments/assets/5ebdf957-e74f-451a-b4aa-edcdbeedfbc4" />
+
